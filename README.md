@@ -4,4 +4,4 @@
 
 </div>
 
-## [Github Pages https://nikskul.github.io/cv/](https://nikskul.github.io/cv/)
+## [Github Pages https://nikskul.github.io/](https://nikskul.github.io/)
